@@ -89,7 +89,7 @@ O projeto recebe o mesmo cuidado de engenharia (Feature-Sliced Design, contratos
 
 ### Contato
 
-📍 Curitiba, PR — aberto a oportunidades remotas
+📍 Curitiba, PR — 
 📧 [jbmassariol@gmail.com](mailto:jbmassariol@gmail.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/jordao-beghetto-massariol) · [jordao.dev](https://jordao.dev)
 </content>
